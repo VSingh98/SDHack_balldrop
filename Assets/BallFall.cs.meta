@@ -1,10 +1,12 @@
 fileFormatVersion: 2
 guid: 6f6291f4c6a1d40eaa916ae3cdfd5041
-timeCreated: 1443876781
+timeCreated: 1443935024
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - myo: {fileID: 100000, guid: 863250160b56e46dbb2d227833b7338a, type: 2}
+  - myBall: {fileID: 154954, guid: c0f1900fbf5e3df4f9c09d65a84f14b7, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
