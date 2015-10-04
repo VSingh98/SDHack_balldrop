@@ -1,0 +1,28 @@
+
+## Inspiration
+
+We were inspired with the Myo armband and thought that a game would be a great use of its inputs.
+
+## What it does
+
+Our game takes input from the Myo armband and turns the in-game paddle to divert falling balls to their required places in order to gain points.
+
+## How I built it
+
+We built the game using Unity 5.2 and C#. We used the Myo sdk to connect the Myo armband to our Unity game.
+
+## Challenges I ran into
+
+The biggest challenge we faced was making the Myo armband control the game's paddle. We also faced many challenges in making the game itself with Unity.
+
+## Accomplishments that I'm proud of
+
+Making it work! We accomplished most of what we set out to do. We're proud of finishing it even though we knew nothing of the technologies we had to use.
+
+## What I learned
+
+We learned Unity and how to use Myo from scratch.
+
+## What's next for Myo Ball Slap
+
+Adding more platform support and multiple levels.
